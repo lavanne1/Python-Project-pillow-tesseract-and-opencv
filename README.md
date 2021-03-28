@@ -1,1 +1,3 @@
-This is a simple markdown file.
+# Python Project pillow tesseract and opencv
+## Final Assignment
+This is the final assignment repo
